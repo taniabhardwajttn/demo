@@ -1,0 +1,8 @@
+#ignore log files
+*.log
+
+#ignore temp files
+temp.txt
+
+#ignore secret keys
+*.key
