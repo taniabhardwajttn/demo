@@ -2,4 +2,4 @@ This is my test file
 change made from FIRST copy
 Line added to check the difference between a file n its staged version. 
 Another change after staging
-commit from main
+edit on main branch now
